@@ -1,0 +1,11 @@
+# Private paper materials: never publish
+reference_materials/
+
+# Local development environment
+.devcontainer/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
